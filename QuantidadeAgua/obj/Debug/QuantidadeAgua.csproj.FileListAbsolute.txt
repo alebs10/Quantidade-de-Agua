@@ -1,0 +1,8 @@
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\QuantidadeAgua\QuantidadeAgua\bin\Debug\QuantidadeAgua.exe.config
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\QuantidadeAgua\QuantidadeAgua\bin\Debug\QuantidadeAgua.exe
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\QuantidadeAgua\QuantidadeAgua\bin\Debug\QuantidadeAgua.pdb
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\QuantidadeAgua\QuantidadeAgua\obj\Debug\QuantidadeAgua.csproj.AssemblyReference.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\QuantidadeAgua\QuantidadeAgua\obj\Debug\QuantidadeAgua.csproj.SuggestedBindingRedirects.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\QuantidadeAgua\QuantidadeAgua\obj\Debug\QuantidadeAgua.csproj.CoreCompileInputs.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\QuantidadeAgua\QuantidadeAgua\obj\Debug\QuantidadeAgua.exe
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\QuantidadeAgua\QuantidadeAgua\obj\Debug\QuantidadeAgua.pdb
